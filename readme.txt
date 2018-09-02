@@ -7,3 +7,4 @@ Git has a mutable index called stage.
 all
 hzy
 My stupid boss still prefers SVN.
+branch master
